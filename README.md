@@ -10,8 +10,11 @@ In a highly competitive retail environment, the superstore faces the challenge o
 ## Data Source
 The dataset used for this analysis contains historical sales data, encompassing product details, customer information, regional data, and order information. The data was carefully sourced from reliable online resources to ensure data accuracy and reliability.
 
+![image](https://github.com/bhardwaj-priya7/Superstore-Sales-Analysis/assets/138392873/e63747ac-ad41-4710-a1d9-61f15b70f49c)
+
+
 ## Data Cleaning and Preprocessing
-Before creating the Power BI dashboard, the dataset underwent rigorous data cleaning and preprocessing using Power Query. This process involved addressing data irregularities, handling missing values, and mitigating outliers. Additionally, data transformations were applied to prepare the data for analysis. Ensuring data integrity was fundamental to the accuracy of the insights.
+Before creating the Power BI dashboard, the dataset underwent rigorous data cleaning and preprocessing using Power Query. This process involved addressing data irregularities, and handling missing values. Additionally, data transformations were applied to prepare the data for analysis. Ensuring data integrity was fundamental to the accuracy of the insights.
 
 ## Insights and Analysis
 The analysis was conducted using Power BI's powerful visualization tools and focused on various aspects:
